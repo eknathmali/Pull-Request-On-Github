@@ -1,0 +1,26 @@
+
+
+**********          Pull  Request on Git Hub     *********   
+
+ 	1) Make a repository of any code
+   	
+	2)Copy the repo path from search bar of chrome
+
+	3) paste the path in another laptop
+	
+	4) click on fork at top of right side
+
+	5) Now the repo is open on ur github account
+
+	6) edit the code file and do whatever changes u want 
+
+	7) Scroll down and add the comment so that the real owner of code can understand what u want to say
+
+	8) Click on the commit changes
+
+	9) Click on the pull req and click on the new pull req and send it
+
+	10) A msg will be received by the real owner of code and he/she will see the changes in their code if they liked ur changes will merge ur code so that u will become their contributor of respective repo
+
+	11) if they did'nt liked ur changes will reject ur pull req or send u msg will make a conversation with u via pull req .
+
